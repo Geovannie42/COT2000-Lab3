@@ -1,6 +1,6 @@
 name = "Geovannie"
-numbers = {1, 10, 100, 1000, 10000}
-campus = "Boca Raton, Florida"
+numbers = {100000, 20000, 30, 4000, 500}
+football = "Patriots"
 print("Student:", name)
 print("Numbers:", numbers)
-print("Campus:", campus)
+print("Favorite Football Team:", football)
